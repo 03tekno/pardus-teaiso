@@ -109,7 +109,7 @@
         "tooltip": "Enter custom text to show in the panel.",
         "dependency": "menu-custom",
         "indent": true,
-        "value": " PARDUS  "
+        "value": " Pardus  "
     },
     "favbox-min-height": {
         "type": "spinbutton",
