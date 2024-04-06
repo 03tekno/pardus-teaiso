@@ -11,4 +11,4 @@ rm -rf /usr/share/backgrounds/gnome
 
 ### Backports Kernel
 yes | apt install -t yirmiuc-backports linux-image-amd64
-
+apt update && apt upgrade -y
