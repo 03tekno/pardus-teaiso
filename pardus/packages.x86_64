@@ -30,9 +30,18 @@ inxi
 wget
 synaptic
 cinnamon
-#printer-driver-all
-#system-config-printer
-#simple-scan
+pardus-lightdm-greeter
+ardus-installer
+pardus-software
+pardus-package-installer
+pardus-night-light
+pardus-about
+pardus-update
+pardus-locales
+pardus-ayyildiz-grub-theme -y
+printer-driver-all
+system-config-printer
+simple-scan
 pardus-locales
 pardus-software
 pardus-package-installer
