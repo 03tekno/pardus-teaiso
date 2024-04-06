@@ -1,0 +1,22 @@
+name: pardus
+hostname: pardus
+distro: debian
+codename: yirmiuc-deb
+publisher: Pardus GNU/Linux <https://pardus.org.tr>
+label: Pardus_Teaiso
+application_id: Pardus Cinnamon
+application_id: Unofficial Pardus Linux Live/Rescue Media
+airootfs_directory_pre: airootfs
+repository: http://depo.pardus.org.tr/pardus
+linux_args: locales=tr_TR.UTF-8,en_US.UTF-8 keyboard-layouts=tr username=pardus hostname=pardus user-fullname=Pardus noswap splash quiet
+arch: x86_64
+grub_cfg: grub.cfg
+packages:
+ - packages.x86_64
+ - firmware.x86_64
+customize_airootfs_pre:
+ - pardus-keyring.sh
+file_permissions:
+ - /etc/shadow|0:0:400
+customize_airootfs:
+ - customize-airootfs.sh

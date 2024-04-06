@@ -1,0 +1,3 @@
+deb http://depo.pardus.org.tr/pardus yirmiuc main contrib non-free non-free-firmware
+deb http://depo.pardus.org.tr/pardus yirmiuc-deb main contrib non-free non-free-firmware
+deb http://depo.pardus.org.tr/guvenlik yirmiuc-deb main contrib non-free non-free-firmware
