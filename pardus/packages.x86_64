@@ -9,8 +9,6 @@ gnome-terminal
 gnome-themes-extra
 arc-theme
 papirus-icon-theme
-pavucontrol
-pulseaudio
 ca-certificates
 gvfs-backends
 xdg-user-dirs
