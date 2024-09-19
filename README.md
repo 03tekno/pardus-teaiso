@@ -1,4 +1,4 @@
-# Pardus 23 Cinnamon backports (Unofficial)
+# Pardus 23 Cinnamon backports ISO (Unofficial)
 
 Pardus 23 Cinnamon kişisel bir projedir. 
 
